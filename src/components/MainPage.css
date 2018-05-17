@@ -1,0 +1,47 @@
+.jumbotron {
+    min-height: 80vh;
+    max-height: 110vh;
+    margin-top: 1.5vh;
+    margin-left: 5vw;
+    margin-right: 5.8vw;
+    padding-top: 0.5vh;
+    padding-left: 2.5vw !important;
+    padding-right: 2.5vw !important;
+}
+
+.CaptionContainer {
+    background-color: palegoldenrod;
+}
+
+.PostCaption {
+    font-size: 1em !important;
+    font-weight: 300 !important;
+}
+
+.PostImage {
+    height: 53vh;
+    width: 100%;
+    margin-top: 4.8vh;
+}
+
+.PostImage>Image {
+    height: 100%;
+    width: 100%;
+}
+
+.FeedTabs {
+    margin-top: 3vh;
+}
+
+.DescriptionContainer {
+    /*background-color: pink;*/
+    min-height: 5vh;
+    max-height: 29.5vh;
+    overflow: auto;
+    margin-top: 1.5vh;
+}
+
+.DescriptionContainer>p {
+    font-size: 1em;
+    font-weight: 300;
+}
